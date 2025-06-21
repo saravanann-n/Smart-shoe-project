@@ -17,10 +17,12 @@ Developed an assistive wearable device that detects obstacles in real-time and a
 
 ## 📷 Demo
 ![image](https://github.com/user-attachments/assets/b0630ef6-a57c-46e9-a7d4-dcf71ba92d90)
-Ultrasonic Sensor and Vibration Motor Working output model
+
+Fig. 1: Ultrasonic Sensor and Vibration Motor Working output model
 
 ![image](https://github.com/user-attachments/assets/920c1078-1be4-49ad-974a-7fad97af3619)
-Rechargeable Battery with Piezoelectric Sensors
+
+Fig. 2: Rechargeable Battery with Piezoelectric Sensors
 
 
 ## 📝 Author
