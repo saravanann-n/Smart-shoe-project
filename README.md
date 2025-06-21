@@ -24,6 +24,10 @@ Fig. 1: Ultrasonic Sensor and Vibration Motor Working output model
 
 Fig. 2: Rechargeable Battery with Piezoelectric Sensors
 
+## Final Product
+![image](https://github.com/user-attachments/assets/c47294f3-5d1b-4fc1-a22c-8dfb676f827b)
+
+
 
 ## 📝 Author
 Saravanan N | [LinkedIn](https://www.linkedin.com/in/saravanann132/)
