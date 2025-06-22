@@ -25,4 +25,9 @@ Developed an assistive wearable device that detects obstacles in real-time and a
 
 
 ## 📝 Author
-Saravanan N | [LinkedIn](https://www.linkedin.com/in/saravanann132/)
+
+**Saravanan N**  
+🔗 [LinkedIn](https://www.linkedin.com/in/saravanann132/)  
+📧 nsaravanan146@gmail.com  
+📂 [Portfolio](https://saravanann.netlify.app/)  
+💻 [GitHub](https://github.com/saravanann-n)
